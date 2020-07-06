@@ -6,12 +6,18 @@ UGImageViewer is full image view library with built-in zooming effects to each i
 # Description
 UGImageViewer allows you to display your images in full sliding view with zooming effects. It supports HTTPS image loading as well as local image URIs.
 
+
+## Demo
+![alt text](https://github.com/haseebazeem15/UGImageViewer/blob/master/demo1.jpeg)
+![alt text](https://github.com/haseebazeem15/UGImageViewer/blob/master/demo2.jpeg)
+![alt text](https://github.com/haseebazeem15/UGImageViewer/blob/master/demo.gif)
+
 ## Minimum API LEVEL
 UGImageViewer is compatible with API LEVEL 19 or above.
 
 ## Installation
 
-1) Use [jitpack](https://jitpack.io) in your build.gradle file to install GifImageView.
+1) Use [jitpack](https://jitpack.io) in your build.gradle file to install UGImageViewer.
 
 ```bash
 allprojects {
@@ -23,7 +29,7 @@ allprojects {
 ## Gradle
 ```bash
 dependencies {
-implementation 'com.github.haseebazeem15:UGImageViewer:1.0'
+   implementation 'com.github.haseebazeem15:UGImageViewer:1.0'
 }
 ```
 
