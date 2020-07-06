@@ -8,18 +8,7 @@ UGImageViewer allows you to display your images in full sliding view with zoomin
 
 
 ## Demo
-
-<div style="display: flex;">
-  <div style="flex: 33.33%;padding: 5px;">
-    <img src="https://github.com/haseebazeem15/UGImageViewer/blob/master/demo1.jpeg" alt="Snow" style="width:200px">
-  </div>
-  <div style="flex: 33.33%;padding: 5px;">
-    <img src="https://github.com/haseebazeem15/UGImageViewer/blob/master/demo2.jpeg" alt="Forest" style="width:200px">
-  </div>
-  <div style="flex: 33.33%;padding: 5px;">
-    <img src="https://github.com/haseebazeem15/UGImageViewer/blob/master/demo.gif" alt="Mountains" style="width:200px">
-  </div>
-</div>
+![alt text](https://github.com/haseebazeem15/UGImageViewer/blob/master/demo1.jpeg)![alt text](https://github.com/haseebazeem15/UGImageViewer/blob/master/demo2.jpeg)![alt text](https://github.com/haseebazeem15/UGImageViewer/blob/master/demo.gif)
 
 ## Minimum API LEVEL
 UGImageViewer is compatible with API LEVEL 19 or above.
