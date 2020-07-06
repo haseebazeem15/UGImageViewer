@@ -62,7 +62,7 @@ UGImageViewer.Builder(this, arrayList, position).show();
 ```
 
 ## Libraries Used
-UGImageViewer is using my own ZImageView Library (for zooming effect) and Picasso (for Image Loading)
+UGImageViewer is using my own [ZImageView Library](https://github.com/haseebazeem15/ZImageView) (for zooming effect) and Picasso (for Image Loading)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
